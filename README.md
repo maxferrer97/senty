@@ -1,7 +1,7 @@
 # senty
 CSCI 3308 SD project
 
-The Objective of our project (Senti) is to make investing more accesible to everyone
+The Objective of our project (Senty) is to make investing more accesible to everyone
 by offering this free online service. This service helps users in making investment
 decisions by providing a general overview of the publics opinion on a cerain company.
 The way this is done is by using web scraping and sentment analysis on certain articles
